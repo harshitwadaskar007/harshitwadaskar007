@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harshit Wadaskar
 
 ### Test Automation Engineer  | Student ###
-I am a Clean Code and Test Automation specialist who loves to create Industry standard frameworks for UI Automation, Windows Automation and API automation and contribute here in my Github.
+I am a Clean Coder and Test Automation specialist who loves to create Industry standard frameworks for UI Automation, Windows Automation and API automation and contribute here in my Github.
 
 ### Skills: 
 Test Automation tools : Selenium, Playwright, Specflow, FlaUI, TestComplete and QTP(now UFT)
